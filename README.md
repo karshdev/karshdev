@@ -1,5 +1,5 @@
 <h1 style="text-align:center;">Hi 👋, I'm Aakarsh Sharma</h1>
-<h3 style="text-align:center;">A passionate frontend developer from India</h3>
+<h3 style="text-align:center;">A passionate Full stack developer from India</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
