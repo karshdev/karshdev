@@ -3,7 +3,7 @@
 
 -👋 Have alook at my portfoilio-[Click Here](https://portfolio-website-seven-snowy.vercel.app/)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 My techstack includes **MERN stack and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/karshdev](https://github.com/karshdev)
 
