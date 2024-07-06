@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">Hi 👋, I'm Aakarsh Sharma</h1>
 <h3 style="text-align:center;">A passionate Full stack developer from India</h3>
 
--👋 Have alook at my portfoilio-[Click Here](https://portfolio-website-seven-snowy.vercel.app/)
+-👋 Have a look at my portfoilio-[Click Here](https://portfolio-website-seven-snowy.vercel.app/)
 
 - 🌱 My techstack includes **MERN stack and Next.js**
 
