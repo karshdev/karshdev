@@ -15,9 +15,6 @@
 
 <h3 style="text-align:left;">Connect with me:</h3>
 <p style="text-align:left;">
-<a href="https://twitter.com/aakarshtwt" target="blank"><img style="text-align:center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakarshtwt" height="30" width="40" /></a>
-<a href="https://instagram.com/_aakarsh.sharma_" target="blank"><img style="text-align:center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aakarsh.sharma_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sharmaaakarsh" target="blank"><img style="text-align:center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharmaaakarsh" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~011a20f8c28bfa1ee5" target="blank"><img style="text-align:center;" src="https://www.svgrepo.com/show/331630/upwork.svg" alt="sharmaaakarsh" height="30" width="40" /></a>
 </p>
 
