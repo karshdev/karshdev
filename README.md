@@ -2,7 +2,7 @@
 
 **Full-stack developer · Claude Certified Architect**
 
-I build web products end to end and automate the operations behind them — from React and Angular front ends to event-driven Node backends, with AI agents and integrations wired through the middle.
+I build web products end to end and automate the operations behind them  from React and Angular front ends to event-driven Node backends, with AI agents and integrations wired through the middle.
 
 Most of what I build ships inside client and employer repositories under NDA, so this profile is light on source code.
 
@@ -17,7 +17,7 @@ Most of what I build ships inside client and employer repositories under NDA, so
 ## Achievements
 
 - **Claude Certified Architect** — verified Anthropic credential, earned while architecting automations in production
-- Built a **generative-engine-optimization platform end to end** — marketing site and full product app — for a Forbes 40 Under 40 founder
+- Built a **generative-engine-optimization platform end to end** — marketing site and full product app  for a Forbes 40 Under 40 founder
 - Shipped the public platform site for an **AI marketing company during its $35M funding round**
 - Building a **clinical sleep-study platform** handling up to 22 direct and 7 derived channels per study on an event-driven architecture
 - Built a **24/7 AI voice receptionist** for personal-injury law firms, integrated with CRM, accounting and marketing systems so every answer comes from a live record
